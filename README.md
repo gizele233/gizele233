@@ -3,7 +3,7 @@
 ### Bem-vindo(a) <img src="https://github.com/gizele233/gizele233/blob/main/Hi.gif" width="23"></img>
 <h1> Me chamo Gizele </h1>
    
-<li>Sou graduanda em engenharia da Computação</li>
+<li>Sou formada em engenharia da Computação</li>
 <li>Já participei de ambientes de inovação (startup e empresa jr)</li>
 <li>Sou uma sonhadora</li>
 <li>Sou uma colecionadora de moedas</li>
